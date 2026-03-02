@@ -1,0 +1,6 @@
+# Data files
+*.csv
+*.tsv
+
+# Environment
+.env
